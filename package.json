@@ -1,0 +1,25 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "forever": "^0.15.3",
+    "lodash": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalKrasno/helloworld.git"
+  },
+  "author": "Michal Krasnodebski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalKrasno/helloworld/issues"
+  },
+  "homepage": "https://github.com/MichalKrasno/helloworld#readme"
+}
